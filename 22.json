@@ -1,0 +1,371 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.632755000000003064997144974768161773681640625,
+                    43.1315299999999979263520799577236175537109375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/13",
+                "Title": "Lake Sturgeon",
+                "Seneca Text": "Og\u00e1wihs\u00f6:n",
+                "Scientific Name": "Acipenser fulvescens",
+                "Meaning": "lit. shovel attached",
+                "Description": "Lake sturgeon can be found swimming the waters of the Genesee River. These remarkable fish predate the dinosaurs, grow as large as seven to eight feet and 300 pounds, and live up to 150 years. Sturgeon use their distinct, shovel-like mouths to feed on snails, worms, crayfish, and insect larvae. The Skar\u00f9:r\u0119\u02c0 (Tuscarora) word for lake sturgeon is also used in their word for \"dandelion\", approximately translating to \"sturgeon flower\". The Skar\u00f9:r\u0119\u02c0 observed that dandelions blooming at the same time that sturgeon migrated to spawn in the river every spring.\n\nLake sturgeon are currently classified as a threatened species in the state of New York. The boom of the late 19th century caviar industry, paper mill pollutants dumped into aquatic ecosystems, dam construction that obstructs sturgeon migrations, and more pushed them to near extinction. In 2003, as part of the state's efforts to support the species' recovery, the Department of Environmental Conservation started stocking lake sturgeon in the Lower Genesee River. Then, in 2021, lake sturgeon were observed spawning in the Genesee River for the first time in over 50 years, sparking hope for their future.",
+                "Identifier": "Sturgeon",
+                "Spatial Coverage": "90",
+                "Subject": "Fish",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/eccea24708a79f6c3445da002b0a56f9c1f21761.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/8104918c56e8fcfdfe7d67e2d86b9a12c3d19480.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/583cb48e875b750c87f7193c9a4d18c1c892fae3.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6328290000000009740688255988061428070068359375,
+                    43.12737200000000115096554509364068508148193359375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/14",
+                "Title": "Woodpecker",
+                "Seneca Text": "Ogw\u00e4:'",
+                "Scientific Name": "Picidae",
+                "Description": "Most species of woodpecker are native to the United States. On campus and along the Genesee River, one can hear these birds hammering away at trees in their hunt for bugs, leaving pecked-out holes in the bark in their wake.\n\nThe Haudenosaunee interpret the call of the pileated woodpecker as a sign of coming rain. The Haudenosaunee tradition views woodpeckers as a particularly strong animal because of their stubborn and relentless pounding at trees, so their skulls are used in hair ornaments and attached to woven bags as a symbol of strength. Unfortunately, the species of woodpecker traditionally used for these purposes has gone extinct.",
+                "Identifier": "Woodpecker",
+                "Spatial Coverage": "50",
+                "Subject": "Bird",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/b94df421323e4f256894d3765f16bd7f31783fa0.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/429a5345ae456f691fed6eb220ffff77425749fb.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6288279999999986102920956909656524658203125,
+                    43.129424999999997680788510479032993316650390625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/15",
+                "Title": "Dandelion",
+                "Seneca Text": "Oj\u00edhs\u00f6\u2019da\u2019",
+                "Description": "Though we lack a definitive history of dandelions in North America, it is widely believed that they are not native to the Americas, but rather came with European settlers. Since then, the plant has spread over most of North America, and is widely viewed as a weed. Though bitter, the plant is a gwa\u2019y\u00f6\u0300:\u2019 favorite, leaves, flowers and all.\n\nWhile bright yellow dandelion blooms are a clear indicator that spring has arrived, this resilient plant can actually bloom year-round. It provides nectar for pollinators in the early spring, when few other flowers are in bloom. Later, their flowers mature into a familiar fuzzy white sphere. The tufts attached to the seeds help them travel long distances in the wind, an effective dispersal method which explains its wide distribution.\n\nAlmost all parts of dandelions can be used as food, from the fresh flowers to the leaves to the roots. The Haudenosaunee have long used dandelions as medicinal herbs to treat conditions from toothaches to stomachaches.",
+                "Identifier": "Dandelion",
+                "Spatial Coverage": "160",
+                "Subject": "Plant",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/cc2ac23c1eb7270291845ff3994b6da78e0bc05f.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/29afb4f648f988af0e17020dca7d462bf32b4343.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/4cf4468bba4af14a8ae8e496a6fdc393e0239192.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.626135000000004993125912733376026153564453125,
+                    43.13121100000000041063685785047709941864013671875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/16",
+                "Title": "Willow",
+                "Seneca Text": "Os\u00e9hda\u2019",
+                "Scientific Name": "Salix",
+                "Description": "Many willow species are native to New York state. The red willow is particularly important in the Haudenosaunee tradition: in their creation narrative, it is the first medicine plant. Willow has long been used as a fever reducer and pain reliever -- one can chew the leaves and inner bark, or brew a tea to relieve minor pains like toothaches and headaches. In fact, salicylic acid, the active ingredient in aspirin, is present in the inner bark and leaves.",
+                "Identifier": "Willow",
+                "Spatial Coverage": "130",
+                "Subject": "Tree",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/e87c0923079c1a671a82ec2edd8dd7deb0ac7e4e.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/de318bad378d9eef479c731f14215e9c1f433c23.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/7b58f8186499a6e9fe953d6cbcb591bd88ef756c.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.632281000000006088157533667981624603271484375,
+                    43.12656299999999731653588241897523403167724609375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/17",
+                "Title": "Black Ash",
+                "Seneca Text": "Ye\u00f6dagw\u00e4:s\u00f6s",
+                "Scientific Name": "Fraxinus nigra",
+                "Meaning": "lit. one pounds the wood",
+                "Description": "Black ash is a tree native to the northeastern United States and eastern Canada. It is typically found in swamps and other seasonally flooded areas. They grow to be around 40-60 feet tall, with ascending branches that lend the tree a slim appearance. They have gray bark with shallow ridges and dark green leaves that are divided into smaller leaflets. Their winged seeds are eaten by many different birds, mammals, and rodents.\n\nBlack ash has long been significant as a material for the Haudenosaunee, particularly Kanien'keh\u00e1:ka (Mohawk) basket weaving. The baskets serve both utilitarian and  decorative purposes. Basket weaving is considered sacred and generally not taught to those outside of the community, nor are the techniques for black ash. It is valued for its flexibility, which allows it to be pounded into pliable splints for weaving. Black ash is currently threatened by the invasive emerald ash borer, giving rise to efforts from both the Kanien'keh\u00e1:ka community and the U.S. government to research and preserve these trees.",
+                "Identifier": "BlackAsh",
+                "Spatial Coverage": "40",
+                "Subject": "Tree",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/609f5fc3e84ded025cc5fffd565763b666c7747a.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/bc5cdc410cd16cbab0e17456b209e25e5730426b.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6279090000000024929249775595963001251220703125,
+                    43.13258700000000089858076535165309906005859375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/19",
+                "Title": "Genesee River",
+                "Seneca Text": "Jo\u2019n\u00e9hse:\u2019",
+                "Meaning": "lit. pleasant banks",
+                "Description": "The Genesee River stretches 160 miles from Potter County, Pennsylvania, to Lake Ontario in Rochester. For the Haudenosaunee, especially the On\u00f6dow\u00e1'ga:', this river served as an important means of trade and transportation.\n\nThe city of Rochester was founded on the river, which provided an important source of early power for mills: the \"Flour City\" appellation comes from its early investment in milling, the remains of which can still be seen around the high falls in downtown. Unfortunately, local industry used the river for dumping waste, and it was extremely polluted for decades. Ongoing efforts to clean the river have improved the water quality and helped fish, such as sturgeon, and other wildlife safely return.",
+                "Identifier": "Genesee",
+                "Spatial Coverage": "110",
+                "Subject": "River",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/ccebd180895208b9ca6830f9b630f21f57c8e9a1.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/df9642e945cb02147eec5a2b9a7ff1486abe017b.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.633613999999994348399923183023929595947265625,
+                    43.128410000000002355591277591884136199951171875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/20",
+                "Title": "Cattails",
+                "Seneca Text": "O\u2019\u00e9ohdo:t",
+                "Scientific Name": "typha latifolia",
+                "Meaning": "lit. standing grass",
+                "Description": "Many species of cattail are native to New York, and often found growing in wetlands. Their dense root networks help stabilize the banks of rivers and ponds. They line the Genesee river, and are among the grasses valued by the Haudenosaunee -- sweetgrass, which some walkers may have encountered through Robin Wall Kimmerer's \"Braiding Sweetgrass\" is another important grass, but none grows around our campus. In cooking, cattails can be used as a natural sweetener. Their long stems can be woven into mats and baskets, and their distinctively fluffy seed heads can be used to stuff bedding.",
+                "Identifier": "Cattails",
+                "Spatial Coverage": "80",
+                "Subject": "Plant",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/0109bf120599ebc3cead7b59696cd99ad550e8d7.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/911b3fe06551d15218f8125a09273acc49647dd4.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6249540000000024519977159798145294189453125,
+                    43.13210699999999775400283397175371646881103515625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/69",
+                "Title": "Whitetail Deer",
+                "Seneca Text": "Neog\u00eb\u2019",
+                "Scientific Name": "Odocoileus virginianus",
+                "Description": "Whitetail Deer can be found throughout North America, and parts of South America.  The deer population, unlike other animals, has flourished since 1800s because industrialization and urbanization have reduced the populations of their predators.  Though skittish, Whitetails can occasionally be seen on campus, most often in November because it is the most active month in their mating cycle.\n\nFor the Haudenosaunee, Whitetail Deer are a highly sought-after game animal. They are an important food source, representing a large portion of the meat\/protein in their diets. The hides are tanned and stretched into leather for clothing, including footwear.  Smoking the hide can even alter its color to personalize the clothing.  Antlers and hooves can be used for a wide range of purposes: making tools, glue, decorative rattles and more. Sinew can be stretched and pulled to create a kind of thread or rope, used for tool repair, sewing, and binding material. Using every part of the deer, avoiding waste, reflects the Haudenosaunee principle of preparing for the 7th generation: using the gifts of nature responsibly and with gratitude, protecting them for seven generations into the future.",
+                "Identifier": "Deer",
+                "Spatial Coverage": "120",
+                "Subject": "Land Animal",
+                "Coverage": "43.136026,-77.61147",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/4dca60b2994bf870352ceef20c57078ebbd8457a.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/16db75946740a60d182c94eb2a9c528a292ae206.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.630100999999996247424860484898090362548828125,
+                    43.12763000000000346290107700042426586151123046875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/78",
+                "Title": "Oak",
+                "Seneca Text": "Ogo:w\u00e4\u2019",
+                "Scientific Name": "Quercus",
+                "Description": "There are many different species of Oak Tree in upstate New York. Two major groups are Red Oaks and White Oaks.  The Red Oaks are identifiable by their bristle tipped leaves and their biannual acorn production.  White Oaks have rounded leaves, and sweeter acorns.  Oaks are more fire-resistant than other trees, allowing them to survive some low intensity burns.  White Oaks are traditionally used in shipbuilding because of their greater water resistance, which is also a defense against rot. Oaks are common throughout campus, lining our quad and along the river.\n\nThe Haudenosaunee use oak medicinally, brewing a tea from the bark  to cure a variety of ailments.  The wood is also used to make baskets, furniture, or as a pestle for grinding corn.  White oaks are especially good for arrow making.  Other than day to day uses, oak trees are important for managing the risk of forest fires because of their heat resistance. Other trees, like maple, burn readily. The Haudensaunee have a history of encouraging the growth of oak trees for their acorns and carrying out controlled burns to protect the forests' overall health.",
+                "Identifier": "OakTree",
+                "Spatial Coverage": "20",
+                "Subject": "Tree",
+                "Coverage": "43.13667933333333,-77.61143466666667",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/cf827c25d586d35eddae3c96b1dd66929c112b29.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/6d238b9e6714e8b258e17aca49fb69eedc6a7433.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/5c86c9e7523ab70258b503985f038c0eff2e8e76.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.630728000000004840330802835524082183837890625,
+                    43.13174699999999717192622483707964420318603515625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/110",
+                "Title": "Red Fox",
+                "Seneca Text": "No\u0308\u0301\u2019gwatgwa:h",
+                "Scientific Name": "Vulpes vulpes",
+                "Description": "The red fox is a medium-sized mammal native to much of the Northern Hemisphere, including North America. They are agile, with large triangular ears and long bushy tails that assist in balance and communication. They are highly adaptable, found in a variety of environments, from forests to urban areas. Foxes are omnivorous scavengers, eating a variety of small mammals and birds, as well as fruit and other plants. They are a keystone species in many ecosystems, regulating populations of their prey and competing with other scavengers for carrion.\n\nIn Haudenosaunee culture, the fox plays the role of the trickster. For example, in the story \u201cHow Bear Lost His Tail\u201d, Fox tricks Bear into accidentally pulling off his own tail.",
+                "Identifier": "Fox",
+                "Spatial Coverage": "100",
+                "Subject": "Land Animal",
+                "Coverage": "43.13602, -77.611469",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/97f1474b4e93b42a9f544c762cb554397219c291.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/fd163ff1504205879253bf21522d426f9f1bf61c.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/7b0fcb099d14c8e897b1b3d5392cc591c7e21eca.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.629095000000006621121428906917572021484375,
+                    43.128230999999999539795680902898311614990234375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/120",
+                "Title": "The People and Our Mother Earth",
+                "Seneca Text": "Ha\u2019dey\u00f6gwe\u2019dage:h and Etino\u2019\u00ebh Y\u00f6\u00ebdzade\u2019",
+                "Description": "Take a moment to experience your surroundings with all your senses: look at the people with you, at the plants and the animals. What do you hear, feel smell, taste? Beneath our feet is the Mother Earth. The Haudenosaunee starts the Gan\u00f6:ny\u00f6k, \"the continued acknowledgement\", by giving thanks to all of the people and to our Mother Earth.\n\nLet us bring our minds together to thank the people that we live in balance with all over the world, along with our community, our family, and friends. If you are with someone on this walk, take this moment to thank them.\n\nThen, let us bring our minds together to thank the Mother Earth for the very ground upon which we walk, and the many joys that she brings to us in the varied forms of nature\u2014the plants, flowers, animals, natural phenomena. Under her care, we have thrived to this day, and, in turn, it is through our care that she will thrive.",
+                "Identifier": "People",
+                "Spatial Coverage": "10",
+                "Subject": "Start",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/736fed63a36fdc15a7d386b08d72131fd521937e.mp3",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/f84714eaedd83e1002f598465c25448e9e14a391.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.633182000000005018591764383018016815185546875,
+                    43.12808299999999661622496205382049083709716796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/144",
+                "Title": "Jewelweed",
+                "Seneca Text": "Aw\u00eb\u0301\u00f6ni:y\u00f6:n",
+                "Scientific Name": "Impatiens capensis",
+                "Meaning": "lit. hanging flower",
+                "Description": "Jewelweed is a tall herb with toothy oval leaves which often gather sparkling beads of dew on their underside, from which their name derives. Their trumpet-like flowers are typically bright yellow or orange. When pollinated, they develop seed pods that burst when touched, often with an audible snap, to fling the seeds away for more effective dispersal. This gives rise to another English name, \"touch-me-not\".\n\nThe Haudenosaunee often use jewelweed as an irritant reliever. The sap is applied topically to treat itchy insect bites or rashes from plants like poison ivy and stinging nettle, which often happens to grow near. It is also used as an eye medicine, a diuretic, burn dressing, and dye. When gathering it, one should thank the plant for the healing gifts it provides; in return, our disruption of the plant and its neighbors helps launch their seeds away and ensure that more jewelweed will grow there in the future.",
+                "Identifier": "Jewelweed",
+                "Spatial Coverage": "70",
+                "Subject": "Plant",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/09a5031386578263774ea0080aeb66931d2ec367.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/5003af61c93a59c9b105b812a7466172c4896613.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/67bbbe5350aad85ce42e7911ef3c38f42d6ed5b3.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6264939999999938891050987876951694488525390625,
+                    43.1308539999999993597157299518585205078125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/148",
+                "Title": "Maple",
+                "Seneca Text": "Wahda\u2019",
+                "Scientific Name": "Acer",
+                "Description": "Sugar maple are native to North America and serve as the main source of the sap which is refined into sweet maple syrup. Food can be cooked directly in the sap, which will reduce to syrup as it cooks. Beyond culinary uses, maple syrup is believed to have medicinal properties and help with illnesses such as croup, and heart and digestive ailments. During early contact with European settlers, it was traded for rifles and other goods.\n\nIn 1830, the Indian Removal Act prohibited those deemed \"Indian\" from engaging in their own cultural practices, including making maple syrup -- violations could lead to arrest. Beyond that, the act destabilized the Haudenosaunee people by forcing them to move out of their homelands. Other efforts by settlers to eradicate Indigenous culture, such as the establishment of residential schools, destroyed and damaged an enormous amount of Indigenous knowledge, including the details of traditional maple syrup production. Once regularly produced by Indigenous people, maple syrup is now a luxury good more often commercially produced by companies.",
+                "Identifier": "SugarMaple",
+                "Spatial Coverage": "140",
+                "Subject": "Tree",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/7a46edcca01639e3defeb36541e96797266ef2e9.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/d2f23c03f10c21abb488cc10a4f51d00397a0231.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6278520000000042955434764735400676727294921875,
+                    43.1294529999999980418579070828855037689208984375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/151",
+                "Title": "Rabbit",
+                "Seneca Text": "Gwa\u2019y\u00f6\u0300:\u2019",
+                "Scientific Name": "Lepus sylvaticus",
+                "Description": "Cottontail rabbits, including the New England cottontails, are native to New York State and quite common in upstate New York. They are named for the white undersides of their tails, reminiscent of cotton balls. Many make their homes on the University of Rochester campus.\n\nRabbits appear in a Haudenosaunee social dance called the Rabbit Dance. This is a relatively new dance, adopted and brought here five decades ago after a visit to some southern nations in Oklahoma. It has since become a standard dance at Haudenosaunee social gatherings.",
+                "Identifier": "Rabbit",
+                "Spatial Coverage": "150",
+                "Subject": "Land Animal",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/1c3802e240499ebd4041c4ad4e5d568ff49a4d4d.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/b4f1d50142fe62470f3f9fa0ef45c4f99d1e2b8a.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6319869999999951915015117265284061431884765625,
+                    43.12603200000000214231477002613246440887451171875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/158",
+                "Title": "Red Raspberry",
+                "Seneca Text": "Dagw\u00e1\u2019d\u00e4:n\u00eb\u2019",
+                "Scientific Name": "Rubus idaeus",
+                "Description": "The red raspberry is a shrub native to North America that flowers and produces fruit during the summer. They grow to around 1.5 meters, and are often found growing at the edges of swamps in sunny or partially shaded areas. Many species of birds, rodents, and other mammals such as raccoons and coyotes, consume the berries, making them an integral part of the North American ecosystem. Moreover, the bushes provide cover for rabbits and squirrels and act as nesting spots for several species of birds. \n\nIndigenous people harvest and eat the berries fresh, add them to soups and other foods as a sweetener. Berries and leaves are even used for medicinal purposes. Rich in iron, raspberry leaf tea is used by the Haudenosaunee to relieve menstrual cramps, and to ease pain during childbirth. They are also used as a diuretic and antiemetic.",
+                "Identifier": "Raspberry",
+                "Spatial Coverage": "30",
+                "Subject": "Plant",
+                "Coverage": "43.13653566666667,-77.61102",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/28ba585ba0e49d24accf0be327ba01a7d3777ae1.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/273234a15ff6a923e8784032eddf695dcef0cb9a.jpg",
+                "Media_File_URI_2": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/2935953598faf765533f4b275ed278bbbaaff4d7.mp3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -77.6331459999999964338712743483483791351318359375,
+                    43.1279099999999999681676854379475116729736328125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Item_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/api\/items\/162",
+                "Title": "Poison Ivy",
+                "Seneca Text": "Go'\u00ebn\u00eb:hda:ne'",
+                "Scientific Name": "Toxicodendron radicans",
+                "Description": "Poison ivy is troublesome plant; as the saying \"leaves of three, let it be\", recommends, it is best to avoid it. Contact with its waxy leaves, coated in urushiol, will cause serious rashes and blisters in humans and other animals. Poison ivy takes many shapes, growing as a shrub, a climbing vine, or in patches on the ground. Though it is a nuisance to humans, some other animals, like deer and birds, are immune to its toxins and eat its leaves and berries.\n\nIndigenous people across North America are well aware of poison ivy. The Haudenosaunee make expert use of jewelweed, which often grows near poison ivy, to treat its unpleasant rash.",
+                "Identifier": "PoisonIvy",
+                "Spatial Coverage": "60",
+                "Subject": "Plant",
+                "Coverage": "43.136705666666664,-77.61082300000001",
+                "Media_File_URI": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/94612e6f5e13162f171f655dc344a27d00259721.jpg",
+                "Media_File_URI_1": "https:\/\/nw.swang.digitalscholar.rochester.edu\/db\/files\/original\/caaa18c1a6f31416de0d80f1c2a4ab6f97d124d5.mp3"
+            }
+        }
+    ]
+}
